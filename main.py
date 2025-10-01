@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 
 # Title and subtitle
 st.title("🌟 My First Streamlit App")
